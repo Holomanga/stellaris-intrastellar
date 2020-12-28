@@ -17,5 +17,5 @@
  pc_titanian_desc:0 "Rocky world with a dense nitrogen atmosphere and a hydrosphere composed of lakes of methane."
 
  trait_pc_gaian_preference:0 "Gaian Preference"
- trait_pc_gaian_preference_desc:1 "$trait_pc_gaian_preference_desc$"
+ trait_pc_gaian_preference_desc:1 "$trait_pc_arctic_preference_desc$"
  pc_gaian_habitability:0 "Gaian Habitability"
