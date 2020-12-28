@@ -19,3 +19,4 @@
  trait_pc_gaian_preference:0 "Gaian Preference"
  trait_pc_gaian_preference_desc:1 "$trait_pc_arctic_preference_desc$"
  pc_gaian_habitability:0 "Gaian Habitability"
+ mod_pc_continental_habitability:0 "Gaian Habitability"
