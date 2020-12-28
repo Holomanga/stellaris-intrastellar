@@ -1,5 +1,5 @@
 intrastellar_humans = {
-	name = "PRESCRIPTED_human_civilisation"
+	name = "Human Civilisation"
 	adjective = "PRESCRIPTED_species_adjective_humans1"
 	spawn_enabled = no # yes / no / always
 	ignore_portrait_duplication = yes
